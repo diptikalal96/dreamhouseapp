@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>App_PIN_Email_Subject</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>App PIN Email Subject</shortDescription>
+        <value>Your New App PIN</value>
+    </labels>
+    <labels>
+        <fullName>App_PIN_Reply_To_Address</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>App PIN Reply To Address</shortDescription>
+        <value>no-reply@livanova.com</value>
+    </labels>
+    <labels>
+        <fullName>App_Store_URL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>App Store URL</shortDescription>
+        <value>https://itunes.apple.com/us</value>
+    </labels>
+    <labels>
+        <fullName>Community_Login_URL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Community Login URL</shortDescription>
+        <value>/icon/s/login/</value>
+    </labels>
+    <labels>
+        <fullName>Community_User_Not_Exist</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Community User Not Exist</shortDescription>
+        <value>User doesn&#39;t exist</value>
+    </labels>
+    <labels>
+        <fullName>Default_App_PIN_Email_Sender_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Default App PIN Email Sender Name</shortDescription>
+        <value>SUPPORT TEAM</value>
+    </labels>
+    <labels>
+        <fullName>Default_Contact_ID</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Default Contact ID</shortDescription>
+        <value>0030Q00000gJE0t</value>
+    </labels>
+    <labels>
+        <fullName>Default_Portal_Account_ID_LN_Dev</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Default Portal Account ID for SiteRegisterController on LNDev</shortDescription>
+        <value>001x000xxx35tPN</value>
+    </labels>
+    <labels>
+        <fullName>Force_Update_Button_Text</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Force Update Button Text</shortDescription>
+        <value>Update Now</value>
+    </labels>
+    <labels>
+        <fullName>Force_Update_Description_Text</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Force Update Description Text</shortDescription>
+        <value>The current version of the application is no longer supported. Please update the app. 
+You will be logged out of the app. You will have to login again</value>
+    </labels>
+    <labels>
+        <fullName>Force_Update_Heading_Text</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Force Update Heading Text</shortDescription>
+        <value>We’re Better than Ever</value>
+    </labels>
+    <labels>
+        <fullName>Forgot_Password</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Forgot_Password</shortDescription>
+        <value>Forgotten Password?</value>
+    </labels>
+    <labels>
+        <fullName>ICON_Patient_Community_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>ICON Patient Community Name</shortDescription>
+        <value>ICON Community</value>
+    </labels>
+    <labels>
+        <fullName>Notification_Bulk_Insertion_Error_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Notification Bulk Insertion Error Message</shortDescription>
+        <value>Please insert notification in a bulk of 50 only</value>
+    </labels>
+    <labels>
+        <fullName>OK_Status_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>OK Status Message</shortDescription>
+        <value>OK</value>
+    </labels>
+    <labels>
+        <fullName>Opt_Out_Notification_Message_For_Patient</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Opt Out Notification Message For Patient</shortDescription>
+        <value>Patient don&#39;t want to receive any notification</value>
+    </labels>
+    <labels>
+        <fullName>Opt_Out_Notification_Message_For_Study</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Opt Out Notification Message For Study</shortDescription>
+        <value>Study don&#39;t have setting to send the push notification to patient</value>
+    </labels>
+    <labels>
+        <fullName>Patient_Onboarding_Not_Completed_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Patient Onboarding Not Completed Message</shortDescription>
+        <value>Patient has not completed the onboarding process yet</value>
+    </labels>
+    <labels>
+        <fullName>Patient_do_not_have_registered_device</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Patient do not have registered device</shortDescription>
+        <value>Patient does not have any registered device</value>
+    </labels>
+    <labels>
+        <fullName>Play_Store_URL</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Play Store URL</shortDescription>
+        <value>https://play.google.com/store/apps</value>
+    </labels>
+    <labels>
+        <fullName>Production_Org_Instance</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Production Org Instance</shortDescription>
+        <value>https://login.salesforce.com</value>
+    </labels>
+    <labels>
+        <fullName>Push_Notification_Type</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Push Notification Type</shortDescription>
+        <value>Push Notification</value>
+    </labels>
+    <labels>
+        <fullName>Resource_Not_Found_API_Status_Message</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Resource Not Found API Status Message</shortDescription>
+        <value>Requested resource is not found</value>
+    </labels>
+    <labels>
+        <fullName>Sandbox_Org_Instance</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Sandbox Org Instance</shortDescription>
+        <value>https://test.salesforce.com</value>
+    </labels>
+    <labels>
+        <fullName>Send_App_PIN_Email_Template_Name</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Send App PIN Email Template Name</shortDescription>
+        <value>Send_New_App_Pin</value>
+    </labels>
+</CustomLabels>
